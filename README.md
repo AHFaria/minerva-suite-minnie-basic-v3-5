@@ -1,6 +1,6 @@
 # minerva-suite-minnie-basic-v3-5
 
-Lightweight prompt system for focus support, task initiation, and overwhelm relief — part of the Minerva Suite.
+Lightweight prompt system for focus support, task initiation, and overwhelm relief; part of the Minerva Suite.
 
 ## 📄 Documentation
 
