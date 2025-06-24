@@ -5,6 +5,12 @@ Minnie Basic is a lightweight focus assistant designed for task initiation, clar
 This assistant supports users who need help getting started, finding focus anchors, or easing back into task flow after distraction. She emphasizes warmth over urgency, and flexibility over rigidity.
 
 ---
+## 🔹 Start Here
+
+📄 **[Open the Prompt File](docs/01-minnie-prompt.docx)**  
+This is the primary file for this module.
+
+---
 
 ## 📂 Documentation
 
